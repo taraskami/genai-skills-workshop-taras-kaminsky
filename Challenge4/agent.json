@@ -1,0 +1,15 @@
+{
+  "displayName": "Aurora Bay Agent",
+  "defaultLanguageCode": "en",
+  "timeZone": "America/Los_Angeles",
+  "projectNumber": 1002615266734,
+  "advancedSettings": {
+    "loggingSettings": {
+    
+    }
+  },
+  "genAppBuilderSettings": {
+    "engine": "projects/1002615266734/locations/us/collections/default_collection/engines/79fd1bba-1803-4943-a47f-4c7c518a0faa-chat-1764971654"
+  },
+  "startPlaybook": "Default Generative Playbook"
+}

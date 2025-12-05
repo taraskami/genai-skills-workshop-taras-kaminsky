@@ -1,0 +1,40 @@
+{
+  "name": "94bcd9eb-4f0d-4e41-bd3e-d9e42208e1d2",
+  "displayName": "DS",
+  "dataStoreSpec": {
+    "dataStoreConnections": [ {
+      "dataStoreType": "UNSTRUCTURED",
+      "dataStore": "projects/1002615266734/locations/us/collections/default_collection/dataStores/aurora-bay-ds_1764971633924",
+      "documentProcessingMode": "DOCUMENTS",
+      "engineType": "CHAT_ENGINE",
+      "connectorConfig": {
+      
+      },
+      "createTime": {
+        "seconds": 1764971638,
+        "nanos": 292069000
+      },
+      "displayName": "aurora-bay-ds",
+      "dialogflowAddTime": {
+        "seconds": 1764971654,
+        "nanos": 426000000
+      }
+    } ],
+    "models": {
+      "summarizationModel": {
+        "model": "default"
+      },
+      "rewriterModel": {
+        "model": "default"
+      }
+    },
+    "groundingSettings": {
+    
+    },
+    "payloadSettings": {
+    
+    },
+    "mode": "MODE_DEFAULT"
+  },
+  "toolType": "CUSTOMIZED_TOOL"
+}
